@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100wh;
+    background: hsl(30, 54%, 90%);
+}
+
+.container {
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 80%;
+}
+
+.container img {
+    border-radius: 10px;
+    margin: 10px;
+}
+
+
+
