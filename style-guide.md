@@ -13,15 +13,15 @@ The designs were created to the following widths:
 
 - White: hsl(0, 0%, 100%)
 
-- Stone 100: hsl(30, 54%, 90%)
-- Stone 150: hsl(30, 18%, 87%)
+- Stone 100: hsl(30, 54%, 90%) // background ...
+- Stone 150: hsl(30, 18%, 87%) // grey text in paragraphs
 - Stone 600: hsl(30, 10%, 34%)
-- Stone 900: hsl(24, 5%, 18%)
+- Stone 900: hsl(24, 5%, 18%) // black / dark color
 
-- Brown 800: hsl(14, 45%, 36%)
+- Brown 800: hsl(14, 45%, 36%) // sub-title color (not sub-sub-title)
 
-- Rose 800: hsl(332, 51%, 32%)
-- Rose 50: hsl(330, 100%, 98%)
+- Rose 800: hsl(332, 51%, 32%) // sub-sub-tile color ~= red color
+- Rose 50: hsl(330, 100%, 98%) // red and liggght background color
 
 ## Typography
 
