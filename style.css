@@ -110,6 +110,8 @@ body {
 .nutrition li {
     display: flex;
     font-weight: 600;
+    border-bottom: 0.5px solid rgb(119, 119, 119);
+    padding-block: 2px;
     p {
         width: 50%;
         color: rgb(119, 119, 119);
